@@ -2,6 +2,11 @@
 
 最好用的 sing-box 一键安装脚本 & 管理脚本
 
+安装命令
+```
+bash -c "$(curl -sSL https://raw.githubusercontent.com/reflander/sing-box/refs/heads/main/install.sh)"
+```
+
 # 特点
 
 - 快速安装
