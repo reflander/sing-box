@@ -311,7 +311,6 @@ main() {
     [[ $# -gt 0 ]] && pass_args $@
 
     # show welcome msg
-    clear
     echo
     echo "........... $is_core_name script by $author .........."
     echo
